@@ -1,0 +1,10 @@
+node_modules
+.parcel-cache/*
+dist/
+.env
+.DS_Store
+coverage/
+.vscode/
+.cache
+.postcssrc
+.eslintrc.json
